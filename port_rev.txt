@@ -6,3 +6,5 @@
 
 # check with below code : 
 # git remote -v
+
+# git clone ssh://git@ssh.github.com:443/ashutosh-vd/React-Dashboard.git
