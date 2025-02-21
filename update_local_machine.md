@@ -71,5 +71,5 @@ git reset --hard origin/main
 
 ---
 
-### **Now Your Local Repo is Up to Date!** 🚀  
-You can now continue working on your project. Let me know if you need more details!
+### **Now Your Local Repo is Up to Date!** 
+You can now continue working on your project.
